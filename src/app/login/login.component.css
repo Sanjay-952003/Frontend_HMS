@@ -1,0 +1,20 @@
+.main-cont{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background: linear-gradient(12deg,#007bff,rgb(86, 230, 255));
+    padding: 10px 20px;
+    width: 40%;
+    color: white;
+    border-radius: 6px;
+}
+form{
+    padding: 20px 30px;
+    width: 90%;
+    margin: auto;
+
+}
